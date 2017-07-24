@@ -1,0 +1,21 @@
+{
+  "name": "web-request-mediator-client",
+  "version": "0.0.1-0",
+  "description": "Web Request Mediator Client",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/digitalbazaar/web-request-mediator-client.git"
+  },
+  "author": {
+    "name": "Digital Bazaar, Inc.",
+    "email": "support@digitalbazaar.com",
+    "url": "http://digitalbazaar.com"
+  },
+  "bugs": {
+    "url": "https://github.com/digitalbazaar/web-request-mediator-client/issues"
+  },
+  "homepage": "https://github.com/digitalbazaar/web-request-mediator-client",
+  "dependencies": {
+  }
+}
